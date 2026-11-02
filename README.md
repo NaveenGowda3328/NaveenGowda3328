@@ -17,6 +17,16 @@ Here are some ideas to get you started:
 
 ### 🚀 Python Developer | AI & Machine Learning Enthusiast | Generative AI Explorer
 
+## 📄 My Resume
+
+<p align="center">
+  <a href="./Naveen_BN_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/VIEW_MY_RESUME-Download_PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</p>
+
+---
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Python+Developer;Generative+AI+Enthusiast;Building+Real-World+AI+Projects;Exploring+AWS+Cloud+Computing" />
 </p>
